@@ -1,0 +1,22 @@
+{
+  "name": "variables-from-sass-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader to import specific global variables from SASS files.",
+  "main": "index.js",
+  "keywords": [
+    "sass",
+    "import",
+    "variable",
+    "variables",
+    "webpack",
+    "loader"
+  ],
+  "author": "Dalton Santos",
+  "peerDependencies": {
+    "node-sass": "^3.3.0"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.15",
+    "rgb-hex": "^1.0.0"
+  }
+}
